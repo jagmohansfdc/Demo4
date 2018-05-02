@@ -3,5 +3,5 @@
     <fullName>Contact_Validation_01</fullName>
     <active>true</active>
     <errorConditionFormula>LastName != PRIORVALUE(LastName)</errorConditionFormula>
-    <errorMessage>Name cann't be updated</errorMessage>
+    <errorMessage>Name cann't be updated - updated</errorMessage>
 </ValidationRule>
