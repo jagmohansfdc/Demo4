@@ -1,0 +1,212 @@
+[
+    [
+        "/Users/i860042/SFDX_Demo/DemoWithTeam/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/i860042/SFDX_Demo/DemoWithTeam/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1525197443060,
+            "changeTime": 1525197443060,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/i860042/SFDX_Demo/DemoWithTeam/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/i860042/SFDX_Demo/DemoWithTeam/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1525197443060,
+            "changeTime": 1525197443060,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/SFDX_Demo/DemoWithTeam/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/i860042/SFDX_Demo/DemoWithTeam/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1525218487195,
+            "changeTime": 1525218487195,
+            "contentHash": "4bc531c6f3621ba14f3355488720de8170b798be",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/SFDX_Demo/DemoWithTeam/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/i860042/SFDX_Demo/DemoWithTeam/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1525197443060,
+            "changeTime": 1525197443060,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/SFDX_Demo/DemoWithTeam/force-app/main/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/i860042/SFDX_Demo/DemoWithTeam/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1525218487187,
+            "changeTime": 1525218487187,
+            "contentHash": "829c8d00e33574a5837ba14e2c0dca191fbf93ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/SFDX_Demo/DemoWithTeam/force-app/main/default/classes/AccountInner.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/i860042/SFDX_Demo/DemoWithTeam/force-app/main/default/classes/AccountInner.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1525218487179,
+            "changeTime": 1525218487179,
+            "contentHash": "46292daf7147429f9e8504f5fe7e6ce67e0cb652",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/SFDX_Demo/DemoWithTeam/force-app/main/default/classes/AccountInner.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/i860042/SFDX_Demo/DemoWithTeam/force-app/main/default/classes/AccountInner.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1525218487177,
+            "changeTime": 1525218487177,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/SFDX_Demo/DemoWithTeam/force-app/main/default/classes/AccountPagination.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/i860042/SFDX_Demo/DemoWithTeam/force-app/main/default/classes/AccountPagination.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 887,
+            "modifiedTime": 1525218487188,
+            "changeTime": 1525218487188,
+            "contentHash": "390910e9ad09925f5b802a4f32a8639945fc7657",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/SFDX_Demo/DemoWithTeam/force-app/main/default/classes/AccountPagination.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/i860042/SFDX_Demo/DemoWithTeam/force-app/main/default/classes/AccountPagination.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1525218487186,
+            "changeTime": 1525218487186,
+            "contentHash": "ab8d54219424c435426aab73fd693300e2877703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/SFDX_Demo/DemoWithTeam/force-app/main/default/objects",
+        {
+            "state": "n",
+            "sourcePath": "/Users/i860042/SFDX_Demo/DemoWithTeam/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1525218487195,
+            "changeTime": 1525218487195,
+            "contentHash": "b37456c4530be810dc040f50da72eda09addfb0a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/SFDX_Demo/DemoWithTeam/force-app/main/default/objects/Contact",
+        {
+            "state": "n",
+            "sourcePath": "/Users/i860042/SFDX_Demo/DemoWithTeam/force-app/main/default/objects/Contact",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1525218487195,
+            "changeTime": 1525218487195,
+            "contentHash": "b4eee88c903fa0d92d4e81b9f51a50ead8d7e6e9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/SFDX_Demo/DemoWithTeam/force-app/main/default/objects/Contact/validationRules",
+        {
+            "state": "n",
+            "sourcePath": "/Users/i860042/SFDX_Demo/DemoWithTeam/force-app/main/default/objects/Contact/validationRules",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1525218487195,
+            "changeTime": 1525218487195,
+            "contentHash": "3006e5f1dddfd0405fe8096084c8abc623157c4f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/SFDX_Demo/DemoWithTeam/force-app/main/default/objects/Contact/validationRules/Contact_Validation_01.validationRule-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/i860042/SFDX_Demo/DemoWithTeam/force-app/main/default/objects/Contact/validationRules/Contact_Validation_01.validationRule-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 335,
+            "modifiedTime": 1525218487196,
+            "changeTime": 1525218487196,
+            "contentHash": "44a07b2ff2ddc314ae55bdd49a5337195879942d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/i860042/SFDX_Demo/DemoWithTeam",
+        {
+            "state": "n",
+            "sourcePath": "/Users/i860042/SFDX_Demo/DemoWithTeam",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1525218571075,
+            "changeTime": 1525218571075,
+            "contentHash": "345c04f0bb30a9c2f22b188cc96e39de4179450a",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
